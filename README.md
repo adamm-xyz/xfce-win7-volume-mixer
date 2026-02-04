@@ -44,7 +44,7 @@ sudo pacman -S base-devel cmake gtk3 xfce4-panel libpulse
 **Recommended: CMake**
 
 ```bash
-git clone https://github.com/your-username/xfce-volume-mixer-plugin.git
+git clone https://github.com/adamm-xyz/xfce-volume-mixer-plugin.git
 cd xfce-volume-mixer-plugin
 mkdir build && cd build
 cmake ..
