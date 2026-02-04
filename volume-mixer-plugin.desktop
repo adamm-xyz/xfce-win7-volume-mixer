@@ -1,0 +1,9 @@
+[Xfce Panel]
+Type=X-XFCE-PanelPlugin
+Encoding=UTF-8
+Name=Volume Mixer
+Comment=Per-application volume control
+Icon=multimedia-volume-control
+X-XFCE-Module=volume-mixer-plugin
+X-XFCE-Unique=false
+X-XFCE-API=2.0
