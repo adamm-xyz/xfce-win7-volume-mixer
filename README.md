@@ -2,6 +2,8 @@
 
 A panel plugin for XFCE that provides per-application volume control, similar to the Windows volume mixer.
 
+![Volume Mixer popup](screenshot.jpg)
+
 ## Features
 
 - **Per-application volume control** — Adjust the volume of each application (e.g. Firefox, Spotify) independently
